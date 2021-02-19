@@ -1,1 +1,0 @@
-The two spectrograms generated using the rectangular and the hanning window differ.
