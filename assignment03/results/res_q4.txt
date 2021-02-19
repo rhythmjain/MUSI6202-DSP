@@ -1,0 +1,1 @@
+The two spectrograms generated using the rectangular and the Hanning window differ. In case of rectangular window, we can see a lot of discontinuity in the corresponding spectrogram where as the spectrogram with Hanning window appears to be smoother. This is because in the spectrogram with Hanning window, the spectral leakage is lesser and frequency resolution is better.
